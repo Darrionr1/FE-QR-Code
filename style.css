@@ -16,9 +16,8 @@ body {
 	align-items: center;
 }
 
-.container {
+main {
 	max-width: 320px;
-
 	margin: 0 auto;
 	background-color: white;
 	padding: 1em;
